@@ -18,3 +18,14 @@
 .message {
   font-weight: bold;
 }
+
+.container {
+  margin-top: 100px;
+  margin-bottom: 10px;
+  padding-left: 100px;
+}
+
+.name-title {
+  color: rgb(68,122,178);
+  margin-left: -20px;
+}

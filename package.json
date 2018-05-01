@@ -12,7 +12,7 @@
   "author": "Eric J Fisher <eric@codeschool.com>",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.14.0",
+    "browser-sync": "^2.24.1",
     "chai": "^3.5.0",
     "javascript-sandbox": "git+https://github.com/codeschool/javascript-sandbox.git",
     "jsdom": "^9.4.1",
